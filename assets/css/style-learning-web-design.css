@@ -1,0 +1,31 @@
+* {
+  font-family: "Lora", serif;
+}
+h1 {
+  font-size: 3rem;
+  letter-spacing: 0.2rem;
+  text-align: center;
+  color: rgb(54, 78, 78);
+}
+p {
+  padding: 1rem;
+  text-align: justify;
+}
+div.buttons {
+  margin-top: 1rem;
+}
+a {
+  text-decoration: none;
+  color: rgb(0, 100, 50);
+  font-size: 1.3rem;
+  text-align: center;
+}
+a:hover {
+  color: palevioletred;
+}
+a.read {
+  padding: 1rem;
+}
+a.btn {
+  padding-left: 2rem;
+}
